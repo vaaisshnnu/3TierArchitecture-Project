@@ -2,7 +2,7 @@
 
 Tier 1 – Presentation (Frontend Layer):
 IAM
-Amazon S3 (for static website hosting)
+Amazon S3 (for Stroring the Code)
 Route 53 (DNS)
 
 Tier 2 – Application (Logic Layer):
