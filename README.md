@@ -13,5 +13,5 @@ Amazon S3 (for Stroring the Code)
 
 # Tier 3 – Data Layer:
 Amazon S3 (for backups or object storage) 
-Amazon DynamoDB 
+Amazon RDS(MySQL)
 
